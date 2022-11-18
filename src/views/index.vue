@@ -1,12 +1,10 @@
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>23</div>
 </template>
 
 <script>
 export default {
-
+  name: 'MyIndedx'
 }
 </script>
 
